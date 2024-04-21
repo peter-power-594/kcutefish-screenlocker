@@ -28,6 +28,13 @@ make
 sudo make install
 ```
 
+## Uninstall
+
+```shell
+rm /usr/bin/cutefish-screenlocker
+rm /usr/bin/ccheckpass
+```
+
 ## License
 
 This project has been licensed by GPLv3.
