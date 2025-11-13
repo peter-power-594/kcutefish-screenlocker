@@ -4,22 +4,21 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="202"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="231"/>
         <source>Password</source>
         <translation>මුර පදය</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="225"/>
         <source>Unlock</source>
-        <translation>අගුල අරින්න</translation>
+        <translation type="vanished">අගුල අරින්න</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="274"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
         <translation>කරුණාකර ඔබගේ මුරපදය අතුලත් කරන්න</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="284"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
         <source>Unlocking failed</source>
         <translation>අගුල ඇරීම අසාර්ථක විය</translation>
     </message>

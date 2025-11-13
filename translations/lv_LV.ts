@@ -4,22 +4,21 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="202"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="231"/>
         <source>Password</source>
         <translation>Parole</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="225"/>
         <source>Unlock</source>
-        <translation>Atbloķēt</translation>
+        <translation type="vanished">Atbloķēt</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="274"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="284"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
         <source>Unlocking failed</source>
         <translation type="unfinished"></translation>
     </message>
